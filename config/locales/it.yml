@@ -212,7 +212,7 @@ it:
         footer: 'ALKEP Meeting è un sistema di videoconferenza basato su software libero. Per maggiori informazioni https://alkep.com.'
   landing:
     about: "ALKEP Meeting è il tuo spazio collaborativo. Puoi creare Stanze per ospitare i meeting, o partecipare ad altri meeting utilizzando collegamenti brevi."
-    welcome: Benvenuti su ALEKP Meeting.
+    welcome: Benvenuti su ALKEP Meeting.
     video: Guarda il tutorial sull'utilizzo di ALKEP Meeting
     upgrade: Mostrami come aggiornare alla versione 2.0!
     version: "E' stata rilasciata una nuova versione di GreenLight, ma il tuo database non è compatibile."
