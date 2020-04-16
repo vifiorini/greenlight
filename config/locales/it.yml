@@ -1,20 +1,7 @@
-# BigBlueButton open source conferencing system - http://www.bigbluebutton.org/.
+# ALKEP-MEETING conferencing system - http://www.alkep.com/.
 #
-# Copyright (c) 2018 BigBlueButton Inc. and by respective authors (see below).
-#
-# This program is free software; you can redistribute it and/or modify it under the
-# terms of the GNU Lesser General Public License as published by the Free Software
-# Foundation; either version 3.0 of the License, or (at your option) any later
-# version.
-#
-# BigBlueButton is distributed in the hope that it will be useful, but WITHOUT ANY
-# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-# PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
-#
-# You should have received a copy of the GNU Lesser General Public License along
-# with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
-
-# Locale.
+# Copyright (c) 2020 Alkedo Produzioni S.r.l.. and by Kepler Informatica and Vi Fi Consulting
+# 
 
 it:
   activerecord:
@@ -36,7 +23,7 @@ it:
         enabled: Abilitato
         info: Permettere l'accesso solo ad utenti autenticati
         title: Richiedi autenticazione per ogni stanza
-        user-info: Devi prima registrarti a BigBlueButton per accedere alla stanza
+        user-info: Devi prima registrarti a AlKep-Meeting per accedere alla stanza
       branding:
         change: Cambia immagine
         info: Cambia il logo del brand che appare nell'angolo in alto a sinistra
@@ -196,7 +183,7 @@ it:
     designs: Grafiche personalizzate
     authentication: Autenticazione Utente
   footer:
-    powered_by: "Questo progetto utilizza %{href}."
+    powered_by: Alkep 
   forgot_password:
     subtitle: Password dimenticata
     email: Email
@@ -282,7 +269,7 @@ it:
         verify: "Per verificare il tuo account, clicca sul link seguente."
         verify_text: 'Per verificare il tuo account, visita questo indirizzo: %{url}'
         verify_link: Verifica Account
-        thanks: "Grazie per aver participato, buona giornata!"
+        thanks: "Grazie per aver partecipato, buona giornata!"
   maintenance:
     window_alert:
   max_concurrent: E' stato raggiunto il massimo numero di sessioni contemporanee!
@@ -484,3 +471,4 @@ it:
     signin: Effettua l'accesso al tuo account.
     title: Verifica la tua email
     verification: Verifica
+
